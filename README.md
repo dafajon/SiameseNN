@@ -1,4 +1,4 @@
-project_name
+Siamese NN for Recyclables Classification
 ==============================
 
 A PyTorch implementation of Siamese Neural Network implemented on recycables dataset.
